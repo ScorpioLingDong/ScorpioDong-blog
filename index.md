@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog Scorpio dong
+title: Welcome to Scorpio dong's blog
 ---
 
